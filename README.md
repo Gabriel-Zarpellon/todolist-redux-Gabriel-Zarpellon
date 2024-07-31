@@ -1,0 +1,1 @@
+Esse projeto tem como objetivo desenvolver uma aplicação de lista de tarefas, utilizando-se do React Redux para estas implementações, onde o usuário pode inserir, excluir e marcar tarefas como concluídas. 📝✔️
